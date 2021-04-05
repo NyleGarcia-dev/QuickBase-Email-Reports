@@ -1,0 +1,27 @@
+{
+    "Config":{
+        "GoogleFolder": "FOLDERID",
+        "header": {
+            "Authorization": "QB-USER-TOKEN xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "QB-Realm-Hostname": "xxxxxxxxxxxxxx.quickbase.com",
+            "User-Agent": "Reporter",
+            "Content-Type": "application/json"
+        }
+        
+    },
+    "Email":{
+        "From": "Email Test",
+        "sender": "Example@Example.com",
+        "receiver": "Example@Example.com",
+        "ReplyTo": "Example@Example.com",
+        "server": "smtp.gmail.com",
+        "port": "465",
+        "password": "XXXXXXXXXXXX"
+
+
+
+    }
+
+
+    
+}
