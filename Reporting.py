@@ -36,7 +36,7 @@ def getData(Table,RID,Num=10000):
 
     payload = {}
 
-    headers = Config['header']
+    headers = Config['Config']['header']
 
     response = json.loads(requests.request("POST", url, headers=headers, json = payload).text)
     Data = []
