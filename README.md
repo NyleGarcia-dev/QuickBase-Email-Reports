@@ -16,6 +16,7 @@ Run Reporting.py to generate Google auth
 Example usage:
 
 python3 reporting.py 'Subject name' <ReportID> <TableID> ExampleEMAIL1@Example.com Example@Example.com ......
+
 python3 reporting.py 'potato Report' 22 123457 Example@Example.com 
 
 Cron:
